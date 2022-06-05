@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Graduation-thesis-project-mipt-2022/static/css/main.63dd3779.css",
+    "main.js": "/Graduation-thesis-project-mipt-2022/static/js/main.4fa4cef3.js",
+    "static/media/crossroad_left-drive.jpg": "/Graduation-thesis-project-mipt-2022/static/media/crossroad_left-drive.69db7868530ade46a5e6.jpg",
+    "static/media/crossroad_right-drive.jpg": "/Graduation-thesis-project-mipt-2022/static/media/crossroad_right-drive.5875527a57e8de74feda.jpg",
+    "static/media/arrow-turn-left-bottom.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow-turn-left-bottom.e40caefed555b275ce42.png",
+    "static/media/arrow-turn-left-center-down.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow-turn-left-center-down.10b763038a88bde7f2aa.png",
+    "static/media/arrow-turn-left-center-up.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow-turn-left-center-up.c36075532bd4ca57b7d7.png",
+    "static/media/arrow-turn-left-up.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow-turn-left-up.4a8844fdb0306a963cd9.png",
+    "static/media/arrow1.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow1.4a8844fdb0306a963cd9.png",
+    "static/media/arrow2.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow2.01f83814d07d3b3f8a5a.png",
+    "static/media/arrow3.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow3.10b763038a88bde7f2aa.png",
+    "static/media/arrow4.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow4.d95c8f3f856e5a8b1f59.png",
+    "static/media/arrow5.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow5.01f83814d07d3b3f8a5a.png",
+    "static/media/arrow6.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow6.4a8844fdb0306a963cd9.png",
+    "static/media/arrow7.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow7.10b763038a88bde7f2aa.png",
+    "static/media/arrow8.png": "/Graduation-thesis-project-mipt-2022/static/media/arrow8.d95c8f3f856e5a8b1f59.png",
+    "index.html": "/Graduation-thesis-project-mipt-2022/index.html",
+    "main.63dd3779.css.map": "/Graduation-thesis-project-mipt-2022/static/css/main.63dd3779.css.map",
+    "main.4fa4cef3.js.map": "/Graduation-thesis-project-mipt-2022/static/js/main.4fa4cef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63dd3779.css",
+    "static/js/main.4fa4cef3.js"
+  ]
+}

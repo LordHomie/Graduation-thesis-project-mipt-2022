@@ -1,0 +1,10 @@
+.crossroad__pattern {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: -2rem;
+}
+
+.crossroad__pattern button {
+  font-size: 1rem;
+}

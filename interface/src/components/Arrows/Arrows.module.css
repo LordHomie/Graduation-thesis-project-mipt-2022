@@ -1,0 +1,189 @@
+.arrow-straight {
+  position: absolute;
+  height: 40%;
+  max-width: 15%;
+}
+
+.arrow-turn {
+  position: absolute;
+  object-fit: contain;
+  height: 15%;
+  max-width: 10%;
+}
+
+.horizontal1 {
+  top: 20.8rem;
+  left: 19rem;
+}
+
+.horizontal2 {
+  top: 23.2rem;
+  left: 19rem;
+}
+
+.horizontal3 {
+  top: 26.2rem;
+  left: 19rem;
+}
+
+.horizontal4 {
+  top: 28.5rem;
+  left: 19rem;
+}
+
+.vertical1 {
+  top: 26rem;
+  left: 23.7rem;
+}
+
+.vertical2 {
+  top: 26rem;
+  left: 21.2rem;
+}
+
+.vertical3 {
+  top: 26rem;
+  left: 17.8rem;
+}
+
+.vertical4 {
+  top: 26rem;
+  left: 15rem;
+}
+
+.turn-right1 {
+  top: 36.5rem;
+  left: 27rem;
+}
+
+.turn-right2 {
+  top: 24rem;
+  left: 15rem;
+}
+
+.turn-right3 {
+  height: 8%;
+  top: 38rem;
+  left: 14.5rem;
+}
+
+.turn-right4 {
+  height: 8%;
+  top: 26rem;
+  left: 28.8rem;
+}
+
+.turn-left1 {
+  top: 37rem;
+  left: 15.2rem;
+}
+
+.turn-left2 {
+  height: 7%;
+  top: 26.7rem;
+  left: 14.5rem;
+}
+
+.turn-left3 {
+  object-fit: contain;
+  top: 24rem;
+  left: 28rem;
+}
+
+.turn-left4 {
+  height: 8%;
+  top: 37.8rem;
+  left: 28.5rem;
+}
+
+.turn-left-intersection1 {
+  height: 15%;
+  top: 28.3rem;
+  left: 21rem;
+}
+
+.turn-left-intersection2 {
+  height: 15%;
+  top: 31.9rem;
+  left: 21.4rem;
+}
+
+.turn-left-intersection3 {
+  height: 8%;
+  top: 31.2rem;
+  left: 23.5rem;
+}
+
+.turn-left-intersection4 {
+  height: 8%;
+  top: 31.3rem;
+  left: 19rem;
+}
+
+.turn-right-intersection1 {
+  height: 15%;
+  top: 28.5rem;
+  left: 21.4rem;
+}
+
+.turn-right-intersection2 {
+  height: 15%;
+  top: 32rem;
+  left: 21.2rem;
+}
+
+.turn-right-intersection3 {
+  height: 15%;
+  top: 28.8rem;
+  left: 24rem;
+}
+
+.turn-right-intersection4 {
+  height: 15%;
+  top: 30rem;
+  left: 19rem;
+}
+
+.turn-right-intersection-straight1 {
+  top: 34.5rem;
+  left: 23.5rem;
+}
+
+.turn-right-intersection-straight2 {
+  top: 26.2rem;
+  left: 19.5rem;
+}
+
+.turn-right-intersection-center-straight1 {
+  height: 8%;
+  top: 35.4rem;
+  left: 17rem;
+}
+
+.turn-right-intersection-center-straight2 {
+  height: 8%;
+  top: 30rem;
+  left: 26rem;
+}
+
+.turn-left-intersection-straight1 {
+  top: 34rem;
+  left: 19.7rem;
+}
+
+.turn-left-intersection-straight2 {
+  top: 26.5rem;
+  left: 23.5rem;
+}
+
+.turn-left-intersection-center-straight1 {
+  height: 8%;
+  top: 30rem;
+  left: 17.8rem;
+}
+
+.turn-left-intersection-center-straight2 {
+  height: 7%;
+  top: 34.5rem;
+  left: 25.5rem;
+}

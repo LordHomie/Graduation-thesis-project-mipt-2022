@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.header_heading {
+  color: #03045e;
+}
+
+.header_heading span:nth-of-type(1) {
+  color: green;
+}
+
+.header_heading span:nth-of-type(2) {
+  color: orange;
+}
+
+.header_heading span:nth-of-type(3) {
+  color: red;
+}

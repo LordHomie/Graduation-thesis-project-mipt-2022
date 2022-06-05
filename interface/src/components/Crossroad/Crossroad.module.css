@@ -1,0 +1,29 @@
+.crossroad {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.crossroad__left {
+  padding: 1rem 4rem 4rem 4rem;
+}
+
+.crossroad img {
+  width: 32rem;
+}
+
+.crossroad__right {
+  padding: 1rem 2rem 1rem 2rem;
+  width: 30rem;
+}
+
+.crossroad__right-btns {
+  display: flex;
+}
+
+.crossroad__right button {
+  font-size: 1rem;
+  padding: 0.7rem;
+  margin: 0.3rem;
+}

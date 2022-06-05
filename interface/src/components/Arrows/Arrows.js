@@ -26,14 +26,14 @@ import arrowTurnRightIntersectDown from "../../assets/arrows/intersections/arrow
 import arrowTurnRightIntersectCenterUp from "../../assets/arrows/intersections/arrow-turn-right-intersect-center-up.png";
 import arrowTurnRightIntersectCenterDown from "../../assets/arrows/intersections/arrow-turn-right-intersect-center-down.png";
 
-import arrowTurnRightIntersectStraightDown from "../../assets/arrows/intersections2/arrow-turn-right-intersect-straight-down.png";
-import arrowTurnRightIntersectStraightUp from "../../assets/arrows/intersections2/arrow-turn-right-intersect-straight-up.png";
-import arrowTurnRightIntersectCenterStraightUp from "../../assets/arrows/intersections2/arrow-turn-right-intersect-center-straight-up.png";
-import arrowTurnRightIntersectCenterStraightDown from "../../assets/arrows/intersections2/arrow-turn-right-intersect-center-straight-down.png";
+import arrowTurnRightIntersectStraightDown from "../../assets/arrows/intersections2/arrowturnrightintersectstraightdown.png";
+import arrowTurnRightIntersectStraightUp from "../../assets/arrows/intersections2/arrowturnrightintersectstraightup.png";
+import arrowTurnRightIntersectCenterStraightUp from "../../assets/arrows/intersections2/arrowturnrightintersectcenterstraightup.png";
+import arrowTurnRightIntersectCenterStraightDown from "../../assets/arrows/intersections2/arrowturnrightintersectcenterstraightdown.png";
 
-import arrowTurnLeftIntersectStraightDown from "../../assets/arrows/intersections2/arrow-turn-left-intersect-straight-down.png";
-import arrowTurnLeftIntersectStraightUp from "../../assets/arrows/intersections2/arrow-turn-left-intersect-straight-up.png";
-import arrowTurnLeftIntersectCenterStraightUp from "../../assets/arrows/intersections2/arrow-turn-left-intersect-center-straight-up.png";
+import arrowTurnLeftIntersectStraightDown from "../../assets/arrows/intersections2/arrowturnleftintersectstraightdown.png";
+import arrowTurnLeftIntersectStraightUp from "../../assets/arrows/intersections2/arrowturnleftintersectstraightup.png";
+import arrowTurnLeftIntersectCenterStraightUp from "../../assets/arrows/intersections2/arrowturnleftintersectcenterstraightup.png";
 import arrowTurnLeftIntersectCenterStraightDown from "../../assets/arrows/intersections2/arrow-intersect-left.png";
 
 import classes from "./Arrows.module.css";

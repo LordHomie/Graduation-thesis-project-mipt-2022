@@ -1,1 +1,1 @@
-# Graduation-thesis-project-mipt-2022
+# Graph Theory application for traffic light control at crossroads

@@ -1,7 +1,7 @@
 # Graph Theory application for traffic light control at crossroads
 ### Running the attached code
 
-To run my code, clone this repository first, then navigate into the interface folder via the `cd` command in your command prompt or terminal first.
+To run my code, clone this repository first, then navigate into the interface folder via the `cd` command in your command prompt or terminal.
 
 Then run `npm install` to install all required dependencies (this will create a `/node_modules` folder).
 
